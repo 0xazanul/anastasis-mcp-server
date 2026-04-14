@@ -206,4 +206,3 @@ MIT
 ## Credits
 
 - [Anastasis Engine](https://github.com/0xazanul/Anastasis) by [@0xazanul](https://github.com/0xazanul)
-- [Model Context Protocol](https://modelcontextprotocol.io) by [Anthropic](https://anthropic.com)
