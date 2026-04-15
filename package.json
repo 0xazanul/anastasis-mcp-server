@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.29.0",
-    "anastasis": "github:0xazanul/Anastasis",
+    "anastasis": "^1.2.0",
     "zod": "^3.24.0"
   },
   "devDependencies": {
